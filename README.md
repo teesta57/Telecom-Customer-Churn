@@ -9,6 +9,7 @@ This project analyzes telecom customer data to identify the main drivers of chur
 ---
 
 📊 Analysis Highlights
+
 **1. Overall Churn Rate**
 
 * **26.5% of customers churned.**
