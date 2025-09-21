@@ -1,6 +1,6 @@
 # Telecom-Customer-Churn-Analysis
 
-# 🔍 Project Overview
+## 🔍 Project Overview
 
 Customer churn is one of the biggest challenges in the telecom industry. Acquiring new customers is expensive, and reducing churn directly increases profitability.
 
@@ -8,7 +8,7 @@ This project analyzes telecom customer data to identify the main drivers of chur
 
 ---
 
-# 📊 Analysis Highlights
+## 📊 Analysis Highlights
 
 **1. Overall Churn Rate**
 
@@ -54,7 +54,7 @@ This project analyzes telecom customer data to identify the main drivers of chur
 
 ---
 
-# 📌 Business Implications
+## 📌 Business Implications
 
 **1. Early engagement:** First-year customers are the highest risk segment.
 
