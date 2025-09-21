@@ -8,7 +8,7 @@ This project analyzes telecom customer data to identify the main drivers of chur
 
 ---
 
-📊 Analysis Highlights
+# 📊 Analysis Highlights
 
 **1. Overall Churn Rate**
 
