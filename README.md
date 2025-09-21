@@ -101,7 +101,25 @@ telecom-customer-churn/
 * **Source:** Kaggle
 * **Link:** [https://www.kaggle.com/datasets/rashadrmammadov/customer-churn-dataset](https://www.kaggle.com/datasets/rashadrmammadov/customer-churn-dataset)
 
+---
 
+## 🚀 How to Use This Project
+
+1. Clone or download the repository:
+
+   ```bash
+   git clone https://github.com/teesta57/Telecom-Customer-Churn.git
+   ```
+2. Open the `Telecom Customer Churn.ipynb` file.
+3. Explore the dashboard and analyse the data.
+
+---
+
+## 🤝 Contributing
+
+You're welcome to fork the project, explore the dataset, enhance visualizations, or suggest improvements.
+
+---
 
 
 
