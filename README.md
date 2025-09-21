@@ -16,19 +16,19 @@ This project analyzes telecom customer data to identify the main drivers of chur
 
 * Nearly **50% of churners left within their first year**.
 
-2. Churn by Tenure
+**2. Churn by Tenure**
 
-0–12 months: ~45% churn rate.
+* **0–12 months:** ~45% churn rate.
 
-3+ years: <15% churn rate.
+* **3+ years:** <15% churn rate.
 
-3. Churn by Contract Type
+**3. Churn by Contract Type**
 
-Month-to-month: 43% churn.
+* Month-to-month: **43% churn**.
 
-One-year: 11% churn.
+* One-year: **11% churn**.
 
-Two-year: 3% churn.
+* Two-year: **3% churn**.
 
 4. Churn by Payment Method
 
