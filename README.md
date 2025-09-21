@@ -1,6 +1,6 @@
 # Telecom-Customer-Churn-Analysis
 
-# Project Overview
+# 🔍 Project Overview
 
 Customer churn is one of the biggest challenges in the telecom industry. Acquiring new customers is expensive, and reducing churn directly increases profitability.
 
