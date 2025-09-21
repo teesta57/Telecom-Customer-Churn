@@ -82,9 +82,9 @@ This project analyzes telecom customer data to identify the main drivers of chur
 
 telecom-customer-churn/
 │
-├── customer_churn_data.csv          # Dataset
+├── Customer_Churn_Data.csv          # Dataset
 ├── Telecom Customer Churn.ipynb     # Jupyter Notebook with analysis & charts
-├── executive_summary.pdf            # Final report (exported summary in PDF)
+├── Telecom Customer Churn.pdf            # Final report (exported summary in PDF)
 └── README.md                        # Project documentation
 
 ```
