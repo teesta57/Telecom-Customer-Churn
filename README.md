@@ -10,19 +10,19 @@ This project analyzes telecom customer data to identify the main drivers of chur
 
 ## 📊 Analysis Highlights
 
-**1. Overall Churn Rate**
+**###1. Overall Churn Rate**
 
 * **26.5% of customers churned.**
 
 * Nearly **50% of churners left within their first year**.
 
-**2. Churn by Tenure**
+**###2. Churn by Tenure**
 
 * 0–12 months: **~45% churn rate**.
 
 * 3+ years: **<15% churn rate**.
 
-**3. Churn by Contract Type**
+**###3. Churn by Contract Type**
 
 * Month-to-month: **43% churn**.
 
@@ -30,13 +30,13 @@ This project analyzes telecom customer data to identify the main drivers of chur
 
 * Two-year: **3% churn**.
 
-**4. Churn by Payment Method**
+**###4. Churn by Payment Method**
 
 * Electronic check: **45% churn**.
 
 * Credit card / Bank transfer: **20–22% churn**.
 
-**5. Churn by Services**
+**###5. Churn by Services**
 
 * No online security: **42% churn** vs. 15% with it.
 
@@ -44,7 +44,7 @@ This project analyzes telecom customer data to identify the main drivers of chur
 
 * Fiber optic internet: **42% churn** vs. 18% for DSL.
 
-**6. Churn by Demographics**
+**###6. Churn by Demographics**
 
 * Senior citizens: **41% churn** vs. 24% non-seniors.
 
