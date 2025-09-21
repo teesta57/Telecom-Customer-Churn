@@ -47,9 +47,13 @@ This project analyzes telecom customer data to identify the main drivers of chur
 ## 📌 Business Implications
 
 **1. Early engagement:** First-year customers are the highest risk segment.
+
 **2. Contract incentives:** Month-to-month contracts drive churn — annual contracts reduce risk significantly.
+
 **3. Service bundling:** Online security, tech support, and device protection cut churn by half.
+
 **4. Payment modernization:** Customers paying via electronic check churn at nearly double the rate of others.
+
 **5. Targeted retention:** Senior citizens and single-person households need tailored strategies.
 
 ---
