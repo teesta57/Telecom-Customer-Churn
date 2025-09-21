@@ -51,3 +51,41 @@ This project analyzes telecom customer data to identify the main drivers of chur
 * Singles (no partner/dependents): **35% churn** vs. 15–20%.
 
 * Gender: negligible impact.
+
+---
+
+# 📌 Business Implications
+
+* **Early engagement:** First-year customers are the highest risk segment.
+
+* **Contract incentives:** Month-to-month contracts drive churn — annual contracts reduce risk significantly.
+
+* **Service bundling:** Online security, tech support, and device protection cut churn by half.
+
+* **Payment modernization:** Customers paying via electronic check churn at nearly double the rate of others.
+
+* **Targeted retention:** Senior citizens and single-person households need tailored strategies.
+
+---
+
+# 🚀 Recommendations
+
+**Short-term**
+
+* Launch onboarding programs to engage new customers.
+
+* Offer discounts for contract upgrades (month-to-month → annual).
+
+* Bundle value-added services (security, tech support, device protection).
+
+* Encourage customers to switch from electronic checks to auto-pay.
+
+**Long-term**
+
+* Build a predictive churn model to identify at-risk customers.
+
+* Use segmentation (value vs. risk) for targeted retention campaigns.
+
+* Improve fiber optic service quality and pricing competitiveness.
+
+* Create a churn dashboard for real-time KPI tracking.
